@@ -9,4 +9,4 @@ Bem- vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso 
 - GitHub
 - Markdown
 
-### estrutura do ProjetoA
+### Estrutura do Projeto
