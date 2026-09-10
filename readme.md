@@ -10,3 +10,10 @@ Bem- vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso 
 - Markdown
 
 ### Estrutura do Projeto
+
+
+### Adicionando conteudo remotamente
+
+---
+
+## Como trabalhar com o Git
